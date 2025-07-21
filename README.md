@@ -47,13 +47,11 @@ I'm an **IT Student** at Valencia College, passionate about **cybersecurity**, *
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-chareun)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanignaciochareun@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanchareun)
-  
-</div>
-
----
 
 <div align="center">
+  
   [![Portfolio](https://img.shields.io/badge/Portfolio-juanchareun.xyz-00ff41?style=for-the-badge&logo=vercel&logoColor=white)](https://juanchareun.xyz)
+  
   ![Profile Views](https://komarev.com/ghpvc/?username=juanchareun&color=00ff41&style=flat-square&label=Profile+Views)
   
 </div>

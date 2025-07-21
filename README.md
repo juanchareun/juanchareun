@@ -39,22 +39,6 @@ I'm an **IT Student** at Valencia College, passionate about **cybersecurity**, *
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanchareun&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=00ff41&title_color=00ff41&border_color=30363d)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanchareun&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=00ff41&border_color=30363d)
-  
-</div>
-
-## 🌐 Portfolio
-
-Visit my portfolio website to see my projects and learn more about my cybersecurity journey:
-
-<div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-juanchareun.xyz-00ff41?style=for-the-badge&logo=vercel&logoColor=white)](https://juanchareun.xyz)
   

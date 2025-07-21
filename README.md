@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Ethical+Hacker;Network+Security+Enthusiast;IT+Professional)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=IT+Student;Cybersecurity+Enthusiast;)
   
 </div>
 

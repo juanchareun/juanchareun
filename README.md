@@ -52,6 +52,4 @@ I'm an **IT Student** at Valencia College, passionate about **cybersecurity**, *
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-juanchareun.xyz-00ff41?style=for-the-badge&logo=vercel&logoColor=white)](https://juanchareun.xyz)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=juanchareun&color=00ff41&style=flat-square&label=Profile+Views)
-  
 </div>

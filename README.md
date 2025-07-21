@@ -50,6 +50,6 @@ I'm an **IT Student** at Valencia College, passionate about **cybersecurity**, *
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-juanchareun.xyz-00ff41?style=for-the-badge&logo=vercel&logoColor=white)](https://juanchareun.xyz)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-?style=for-the-badge&logo=vercel&logoColor=white)](https://juanchareun.xyz)
   
 </div>

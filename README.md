@@ -38,10 +38,6 @@ I'm an **IT Student** at Valencia College, passionate about **cybersecurity**, *
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-juanchareun.xyz-00ff41?style=for-the-badge&logo=vercel&logoColor=white)](https://juanchareun.xyz)
-  
 </div>
 
 ## 📫 Let's Connect
@@ -57,7 +53,7 @@ I'm an **IT Student** at Valencia College, passionate about **cybersecurity**, *
 ---
 
 <div align="center">
-  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-juanchareun.xyz-00ff41?style=for-the-badge&logo=vercel&logoColor=white)](https://juanchareun.xyz)
   ![Profile Views](https://komarev.com/ghpvc/?username=juanchareun&color=00ff41&style=flat-square&label=Profile+Views)
   
 </div>

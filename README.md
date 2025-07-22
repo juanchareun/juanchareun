@@ -8,7 +8,7 @@
 
 ## 🔒 About Me
 
-I'm an **IT Student** at Valencia College, passionate about **cybersecurity**, **ethical hacking**, and **network security**. I share hands-on labs and document my learning journey to contribute to the cybersecurity community.
+I'm an **IT Student** passionate about **cybersecurity**, **ethical hacking**, and **network security**. I share hands-on labs and document my learning journey to contribute to the cybersecurity community.
 
 ## 🛠️ Tech Stack
 

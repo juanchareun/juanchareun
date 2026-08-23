@@ -74,6 +74,6 @@ I document my learning journey through homelabs, security research, and infrastr
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanignaciochareun@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-juanchareun.xyz-6B7280?style=for-the-badge&logo=vercel&logoColor=white)](https://juanchareun.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-juanchareun.online-6B7280?style=for-the-badge&logo=vercel&logoColor=white)](https://juanchareun.online)
 
 </div>

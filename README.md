@@ -1,11 +1,5 @@
 # 👋 Hello, I'm Juan Chareun
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;DevOps+%26+Cloud+Security+Enthusiast;Building+%26+Documenting+Labs;)
-
-</div>
-
 ## 🔒 About Me
 
 I'm a **Cybersecurity Support Engineer at ThreatLocker** focused on **endpoint security, identity, networking, and cloud technologies**.
